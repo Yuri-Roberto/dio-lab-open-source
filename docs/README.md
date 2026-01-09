@@ -31,9 +31,10 @@ Confira minha principal contribuição:
 ---
 
 ###  Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[(www.linkedin.com/in/yurirobertoeduardodasilva)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yurirobertoeduardodasilva)])
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriroberto0610@gmail.com)
 
 ---
 *Feito com 💙 por Yuri Roberto.*
+
 
