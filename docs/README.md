@@ -4,24 +4,35 @@
     <span> Profiles README DIO</span>
 </h1>
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+###  Sobre mim
+Estou em constante aprendizado na área de tecnologia e atualmente participando do Lab **"Contribuindo em um Projeto Open Source no GitHub"** da Digital Innovation One (DIO). Acredito no poder da colaboração e do código aberto para transformar o mundo.
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+-  Estudante na Uniamérica Descomplica | Faculdade 💚
+-  Focado em aprender Java e Python, dentre outras linguagens e tecnologias de tendências no mercado
+-  Buscando evoluir minhas habilidades técnicas e conexões profissionais
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+---
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+###  Habilidades e Tecnologias
+Para mostrar minhas competências, utilizo as seguintes ferramentas:
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,git,github)
+
+
+
+---
+
+###  Desafios e Projetos em andamento
+Confira minha principal contribuição:
+
+* [Projeto App Spartacus](https://github.com/Yuri-Roberto/spartacus)
+
+
+---
+
+###  Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[(https://www.linkedin.com/in/yurirobertoeduardodasilva/)])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriroberto0610@gmail.com)
+
+---
+*Feito com 💙 por Yuri Roberto.*
